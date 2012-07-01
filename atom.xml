@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Legato Network News</title>
- <link href="http://news.legatonetwork.com/atom.xml" rel="self"/>
- <link href="http://news.legatonetwork.com/"/>
+ <link href="http://blog.legatonetwork.com/atom.xml" rel="self"/>
+ <link href="http://blog.legatonetwork.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://news.legatonetwork.com/</id>
+ <id>http://blog.legatonetwork.com/</id>
  <author>
    <name>Legato Network</name>
    <email>hello@legatonetwork.com</email>
