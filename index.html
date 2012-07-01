@@ -1,0 +1,25 @@
+---
+layout: default
+title: Legato Network News
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <!--
+  <h1>Other News</h1>
+  <ul class="posts">
+    <li><span>14 Apr 2011</span> &raquo; <a href="http://legatonetwork.com">Welcome</a></li>
+  </ul>
+
+  <h1>Links</h1>
+  <ul class="posts">
+    <li><a href="http://legatonetwork.com">Legato:</a> description.</li>
+  </ul>
+  -->
+</div>
