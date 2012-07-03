@@ -26,8 +26,7 @@ Third-party technologies used, in no particular order:
 * [jQuery](http://jquery.com/)
 * [jQuery UI](http://jqueryui.com/)
 * [LESS](http://lesscss.org/)
-* [Bootstrap](http://twitter.github.com/bootstrap)
-* [Blueprint CSS](http://blueprintcss.org/)
+* [Twitter Bootstrap](http://twitter.github.com/bootstrap)
 * Webfonts
 * [jQuery Raty](https://github.com/wbotelhos/raty)
 * [jQuery.form.js](https://github.com/malsup/form/)
